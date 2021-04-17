@@ -20,7 +20,7 @@ I suggest you to use it with PM2
  
  **4.** Edit the config file with the information from your newly registered app
 
- **5.** Run **`richpresence.exe`** (it should open a **CMD WINDOW**)
+ **5.** Run **`start.bat`** (it should open a **CMD WINDOW**)
 
  **6.** Discord should show the game on your profile
 
