@@ -35,7 +35,9 @@ You can make a new Desktop by pressing `WIN + SHIFT + D` and then you can move t
 
 You can copy a **Shortcut-File**/**Linking-File** of the exe in the start up Folder, to automatically start the Rich-Presence when booting the PC. To get to this Folder Type: `WIN + R` and then `shell:startup`  --> Enter
 
-# SUPPORT ME You can always Support me by inviting one of my **own Discord Bots**
+# SUPPORT ME
+You can always Support me by inviting one of my **own Discord Bots**
+
 
 My Bot : [Aquire](https://dsc.gg/aquirebot)
 
