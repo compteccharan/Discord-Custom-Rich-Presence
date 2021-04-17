@@ -37,7 +37,7 @@ You can copy a **Shortcut-File**/**Linking-File** of the exe in the start up Fol
 
 # SUPPORT ME You can always Support me by inviting one of my **own Discord Bots**
 
-[![Best Bot| Aquire]](https://dsc.gg/aquirebot)]
+My Bot : [Aquire](https://dsc.gg/aquirebot)]
 
 
 
