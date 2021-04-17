@@ -8,7 +8,7 @@ An easy to use and easy to setup Rich Presence Updater, for your Discord!
 
 I suggest you to use it with PM2
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+## [**SUPPORT ME**](https://dsc.gg/aquirebot)
 
 ## Installation | How to use the Bot
 
