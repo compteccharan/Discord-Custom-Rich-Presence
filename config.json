@@ -1,0 +1,15 @@
+{
+    "CLIENT_ID": "",
+    "rpc_activity": {
+        "details": "2021's Best Bots",
+        "state": "Making Aquire",
+        "largeImageKey": "aquire",
+        "smallImageKey": "aquire",
+        "largeImageText": "https://dsc.gg/aquirebot",
+        "smallImageText": "oo",
+        "buttons": [
+            { "label": "Invite", "url": "https://dsc.gg/aquirebot" },
+            { "label": "Support Friend", "url": "https://discord.com/oauth2/authorize?client_id=744597377406599188&permissions=8&scope=bot" }
+        ]
+    }   
+}
