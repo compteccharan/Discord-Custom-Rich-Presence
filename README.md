@@ -48,3 +48,8 @@ My Bot : [Aquire](https://dsc.gg/aquirebot)
 Cw Khan : https://discord.gg/xTMeGqpKqc
 
 Bot Shop: https://dsc.gg/csdevs
+
+## **Screen Shot**
+
+<img src="https://github.com/compteccharan/Discord-Custom-Rich-Presence/blob/main/Screenshot_225.png" alt="Ss of start.bat and working"/>
+<img scr="https://github.com/compteccharan/Discord-Custom-Rich-Presence/blob/main/Screenshot_226.png" alt="rpc in my profile">
